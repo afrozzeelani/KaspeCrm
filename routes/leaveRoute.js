@@ -44,7 +44,7 @@ leaveRoute.put(
 );
 leaveRoute.put(
   "/leave-application-hr/:id",
-  verifyAdminHR,
+  // verifyAdminHR,
   updateLeaveApplicationHr
 );
 
