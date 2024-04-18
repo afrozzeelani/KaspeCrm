@@ -26,7 +26,6 @@ leaveRoute.get(
 );
 leaveRoute.get(
   "/leave-application-hr",
-  verifyAdminHR,
   getAllLeaveApplicationHr
 );
 
