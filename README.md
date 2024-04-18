@@ -1,10 +1,8 @@
 # Employee Management System
 
-Note: this is a repository of Employee Management System backend. the repository of the Frontend is available here: https://github.com/fenil29/employee-management-system-frontend-react
 
 -------------
 
-Website: https://employee-management-fk.netlify.com
 
 -------------
 
@@ -19,6 +17,7 @@ This web application contains three account access:
 - Admin
 - HR
 - Employee
+- Manager
 
 All three accounts contain different privileges and authentication.
 
